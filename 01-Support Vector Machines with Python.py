@@ -1,8 +1,4 @@
 """
-___
-
-<a href='http://www.pieriandata.com'> <img src='../Pierian_Data_Logo.png' /></a>
-___
 # Support Vector Machines with Python
 
 Welcome to the Support Vector Machines with Python Lecture Notebook! Remember to refer to the video lecture for the full background information on the code here!
